@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "ES2022",
+        "module": "CommonJS",
+        "moduleResolution": "node",
+        "strict": false,
+        "rootDir": "src/",
+        "outDir": "dist/",
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "typeRoots": ["node_modules/@types", "src/Types", "node_modules/*/typings"]
+    },
+    "exclude": ["dist/", "node_modules/"],
+    "include": ["src/"]
+}
