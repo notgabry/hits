@@ -15,6 +15,6 @@ export const GetHits = async (domain: string): Promise<number> => {
         return 1
     } else {
         await data.update({ Hits: data.dataValues.Hits + 1 })
-        return data.dataValues.Hits + 1
+        return data.dataValues.Hits
     }
 }

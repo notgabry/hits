@@ -6,7 +6,7 @@
 </div>
 
 
-### ❓How to use
+### ❓ How to use
 To use the counter just add `https://hits.onrender.com/` as an image and add the required queries.  
 To add the number of hits add `{{hits}}` to the `label` or the `message`. 
 
