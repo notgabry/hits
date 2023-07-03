@@ -1,3 +1,4 @@
 node_modules/
 .env
 .prettierrc.toml
+.pnpm-lock.yaml
