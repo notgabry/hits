@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "tsnd --clear --rs src/mod",
     "build": "tsc",
-    "start": "node dist/mod.js"
+    "start": "node ./src/mod.js"
   },
   "keywords": [],
   "author": "@notgabry",
