@@ -38,5 +38,5 @@ The counter automatically gets the `origin` header but github doesn't send it wh
 ```html
 <img src="https://hits.up.railway.app/badge?label={{hits}}_Classic_Badge_Views&color=191724&logo=github&style=for-the-badge&labelColor=c4a7e7&logoColor=191724">
 ```
-
-⚠ *The classic badge does not work here because we are in a github readme*
+> **Warning**
+> *The classic badge does not work here because we are in a github readme*
